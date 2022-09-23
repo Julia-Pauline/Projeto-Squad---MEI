@@ -54,7 +54,8 @@ main{
 
 
 .buque{
-    margin-top: 20px;
+  
+    margin: 20px;
     column-gap: 280px;
     padding-bottom: 20px;
     width: 333px;
@@ -81,8 +82,9 @@ main{
 
 .botoes_carrinho {
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around ;
     overflow-y: scroll;
+    background-color: #F5D208CF;
     bottom: 0;
     right: 0;
     padding: 0.5rem;
@@ -91,6 +93,7 @@ main{
   
   .informacoes_carrinho {
     display: flex;
+    color: #F5D208CF;
     justify-content: space-between;
     background-color: #6F175F;
     position: fixed;

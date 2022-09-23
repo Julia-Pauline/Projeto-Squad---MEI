@@ -15,12 +15,10 @@ let preco_itens = [978.97, 949.99, 719.00, 827.20, 510.9, 470.89,
 
 //Lista para controlar a quantidade de cada item
 let quantidade_itens = [0, 0, 0, 0, 0, 0,
-        0, 0, 0, 0, 0, 0,
         0, 0, 0, 0, 0, 0]
 
 //Lista para abrigar o valor total de cada item
 let total_itens = [0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0]
 
 //Função para adição
