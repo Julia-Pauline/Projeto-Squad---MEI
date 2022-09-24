@@ -48,8 +48,9 @@ header{
     text-decoration: none;
 }
 
+
 main{
-    background-color: #f3dff0;
+  background-color: #f3dff0;
 }
 
 
@@ -69,7 +70,6 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: white;
     padding: 2rem;
     border-radius: 8px;
   }

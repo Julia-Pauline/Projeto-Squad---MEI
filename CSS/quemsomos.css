@@ -50,16 +50,16 @@ header{
     background-color: #f5d208cf;
     padding: 7px 8px;
     font-size: 18px;
-    color: #332d2b;
+    color: #6F175F;
 }
 .tarja a{
-    color: black;
+    color: #6F175F;
     text-decoration: none;
 }
 
 main{
     background-color: #f3dff0;
-
+    
 }
 
 .quemsomos{ 
@@ -70,16 +70,9 @@ main{
     max-width: 80%;
     padding-left: 100px;
 }
-.fundo{ 
-    width: 300px; 
-    height: 300px; 
-    display: block; 
-    padding: 0; 
-    margin: 0;
-}
 
 h1{
-    color:#f5d208cf; 
+    color:#6f175f; 
     padding: 40px; 
     text-align: center;
 } 
@@ -107,36 +100,20 @@ h3{
     padding-left: 40px;
 }
   
-h5{ 
-    color:#f5d208cf;
-}
 
-nav#menu a:hover{ 
-    text-decoration: underline; 
-    color:#000000;
-    text-align: center;
-    padding: 2px;
-    
-} 
-
-article#missão{
+aside#missão{
    font-family: Georgia, 'Times New Roman', Times, serif; 
-   color: #000000;
    text-align: center;
-   padding: 2px;
     
 }    
 aside#visão{
     font-family: Georgia, 'Times New Roman', Times, serif; 
     text-align: center;
-    padding: 2px;
-    color: #000000; 
     
 }
 aside#valores{
         font-family: Georgia, 'Times New Roman', Times, serif; 
-        text-align: center;
-        color: #000000;    
+        text-align: center;           
 } 
 
 .footer{
@@ -146,9 +123,4 @@ aside#valores{
     font-family: "Sofia", sans-serif;
 }
 
-@media (max-width:500px){
-    .link{
-        font-size: 1rem;
-    }
-}
 
